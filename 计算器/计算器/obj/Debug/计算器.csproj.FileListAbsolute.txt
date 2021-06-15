@@ -1,0 +1,7 @@
+E:\小型项目测试\计算器代码实现\计算器\计算器\bin\Debug\计算器.exe.config
+E:\小型项目测试\计算器代码实现\计算器\计算器\bin\Debug\计算器.exe
+E:\小型项目测试\计算器代码实现\计算器\计算器\bin\Debug\计算器.pdb
+E:\小型项目测试\计算器代码实现\计算器\计算器\obj\Debug\计算器.csprojAssemblyReference.cache
+E:\小型项目测试\计算器代码实现\计算器\计算器\obj\Debug\计算器.csproj.CoreCompileInputs.cache
+E:\小型项目测试\计算器代码实现\计算器\计算器\obj\Debug\计算器.exe
+E:\小型项目测试\计算器代码实现\计算器\计算器\obj\Debug\计算器.pdb
